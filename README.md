@@ -1,2 +1,2 @@
-# chronos
+# Chronos
 Cronômetro em VanillaJs.
